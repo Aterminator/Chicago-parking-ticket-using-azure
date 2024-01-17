@@ -1,0 +1,11 @@
+Community_Name,Sector,Side,Hardship_Index,Per_capita_income,Percent_unemployed,Percent_without_diploma,Percent_households_below_poverty,Neighborhood,Ward,Tract,ZIP,Police_District,Plate_Type,License_Plate_State,Unit_ID,Violation_ID,PaymentIsOutstanding
+Austin,Other W Side,West Side,73.00,15957.00,22.60,24.40,28.60,A3,29,252101,60644,15,PAS,IL,15,123
+Chatham,Other S/SE/SW Side,Far Southeast Side,60.00,18881.00,24.00,14.50,27.80,C1,8,440102,60619,6,PAS,IL,498,6
+West Town,West Town,West Side,10.00,43198.00,6.60,12.90,14.70,WP3,1,241400,60622,14,PAS,IL,502,44
+Hermosa,Other N/NW Side,Northwest Side,71.00,15089.00,13.10,41.60,20.50,H2,31,200100,60641,25,PAS,IL,502,163
+Washington Heights,Other S/SE/SW Side,Far Southwest Side,48.00,19713.00,20.80,13.70,16.90,WH,21,730201,60620,22,PAS,IL,22,169
+Portage Park,Other N/NW Side,Northwest Side,35.00,24336.00,12.60,19.30,11.60,PP,30,151100,60641,16,PAS,IL,16,10
+Austin,Other W Side,West Side,73.00,15957.00,22.60,24.40,28.60,A3,37,251200,60651,15,TRK,IL,498,185
+Logan Square,Logan Square,North Side,23.00,31908.00,8.20,14.80,16.80,LS2,1,220400,60647,14,PAS,IL,498,105
+
+https://youtu.be/N5XpMcIJzVo?si=cSWwInS2xfMSqOr5
